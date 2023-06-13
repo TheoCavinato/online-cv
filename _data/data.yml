@@ -34,7 +34,8 @@ career-profile:
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Second paragraph if required. |
+
 education:
     title: Education
     info:
@@ -47,6 +48,7 @@ education:
       - degree: Baccalauréat Scientifique 
         school: Lycée François-Mauriac (France) 2016
         time: 2016 |
+
 experiences:
     title: Experiences
     info:
@@ -61,10 +63,12 @@ experiences:
         details: |
           Developing a short video-game for an outreach event
 
+
+
 publications:
     title: Publications
     papers:
-      - title: RESHAPE
+      - title: A resampling-based approach to share reference panels, 2023
         link: "https://www.biorxiv.org/content/10.1101/2023.04.07.535812v1"
         authors: Théo Cavinato, Simone Rubinacci, Anna-Sapfo Malaspinas, Olivier Delaneau
 
