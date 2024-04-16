@@ -41,13 +41,13 @@ education:
     info:
       - degree: Master of Science in Molecular Life Sciences - Specialization Bioinformatics - 2022
         university: University of Lausanne
-        time: 2022 |
+        time: 2022
       - degree: Bachelor of Science (BsC) in Biology
         university: Universtiy of Lausanne
-        time: 2020 |
+        time: 2020
       - degree: Baccalauréat Scientifique 
         school: Lycée François-Mauriac (France) 2016
-        time: 2016 |
+        time: 2016 
 
 experiences:
     title: Experiences
